@@ -31,4 +31,15 @@ Al iniciar la aplicación, el usuario verá el siguiente menú:
 ![Menu_conversor_monedas](https://github.com/user-attachments/assets/9095fbd1-fb3e-4ad9-9b34-81696aa2e139)
 <p>El usuario puede seleccionar una opción y seguir las instrucciones en pantalla para realizar la conversión o ver el historial.</P>
 
+### Historial de Conversiones en Formato JSON
+Un ejemplo de cómo se verá el archivo `Historial_conversiones.json`:
 
+![formato_json](https://github.com/user-attachments/assets/f4c9a871-229a-44d7-9092-3c725e4eaf23)
+
+### Historial de Conversiones en Formato de Texto:
+Un ejemplo de cómo se verá el archivo `Historial_conversiones.txt`:
+
+![historial_texto](https://github.com/user-attachments/assets/34e914ab-383a-4dbf-97e1-5c13290ab489)
+
+### Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, siéntete libre de hacerlo.
